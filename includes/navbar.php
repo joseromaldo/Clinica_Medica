@@ -15,7 +15,7 @@
                     </a>
                     <ul class="dropdown-menu bg-primary">
                         <li class="nav-item">
-                            <a class="nav-link" href="/formaD_conJS/views/grado/index.php">Paciente</a>
+                            <a class="nav-link" href="/Clinica_Medica/views/paciente/index.php">Paciente</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="/formaD_conJS/views/grado/index.php">Servicios</a>
