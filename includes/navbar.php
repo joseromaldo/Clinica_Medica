@@ -18,7 +18,7 @@
                             <a class="nav-link" href="/Clinica_Medica/views/paciente/index.php">Paciente</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="/formaD_conJS/views/grado/index.php">Servicios</a>
+                            <a class="nav-link" href="/Clinica_Medica/views/servicio/index.php">Servicios</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="/formaD_conJS/views/grado/index.php">Detalle</a>
