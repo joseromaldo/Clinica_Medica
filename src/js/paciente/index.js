@@ -73,7 +73,7 @@ const getPacientes = async (alerta ='si') => {
 
                     buttonEliminar.textContent = 'Eliminar';
                     buttonEliminar.classList.add('btn', 'btn-danger', 'w-100');
-                    buttonEliminar.addEventListener('click', () => eliminar(pac));
+                    buttonEliminar.addEventListener('click', () => eliminar(pac.PAC_ID));
 
                     celda6.appendChild(buttonModificar);
                     celda7.appendChild(buttonEliminar);
